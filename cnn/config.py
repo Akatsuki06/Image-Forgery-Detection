@@ -1,0 +1,9 @@
+FAKE_PATH = "cnn/data/train/fake/"
+REAL_PATH = "cnn/data/train/real/"
+TRAIN_PATH = "cnn/data/train/"
+TEST_PATH = "cnn/data/test/"
+VALID_PATH = "cnn/data/valid/"
+IMAGE_DIM = 96
+IMAGE_CHANNEL = 3
+BATCH_SIZE = 32
+EPOCHS = 30
